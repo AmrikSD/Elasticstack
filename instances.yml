@@ -1,0 +1,40 @@
+instances:
+  - name: es01
+    dns:
+      - es01
+      - localhost
+      - amrik.de
+      - www.amrik.de
+    ip:
+      - 127.0.0.1
+      - 31.185.141.111
+      - 0.0.0.0
+
+  - name: es02
+    dns:
+      - es02
+      - localhost
+      - amrik.de
+      - www.amrik.de
+    ip:
+      - 127.0.0.1
+      - 31.185.141.111
+      - 0.0.0.0
+
+  - name: es03
+    dns:
+      - es03
+      - localhost
+      - amrik.de
+      - www.amrik.de
+    ip:
+      - 127.0.0.1
+      - 31.185.141.111
+      - 0.0.0.0
+
+  - name: 'kib01'
+    dns:
+      - kib01
+      - localhost
+      - amrik.de
+      - www.amrik.de
